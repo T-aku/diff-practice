@@ -1,3 +1,3 @@
 # diff-practice
 
-change for stage 1st
+change for multiple file 3rd
