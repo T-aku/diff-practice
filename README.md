@@ -1,3 +1,3 @@
 # diff-practice
 
-practice for stash
+practice for stash(tracked)
