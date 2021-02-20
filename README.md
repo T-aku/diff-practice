@@ -1,3 +1,3 @@
 # diff-practice
 
-for rebase pull 
+practice for stash
